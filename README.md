@@ -179,3 +179,14 @@ Molathoti Nikhil
 ## License
 
 This project is for academic and research purposes.
+
+## Output
+
+<img width="567" height="327" alt="Screenshot 2026-03-04 095907" src="https://github.com/user-attachments/assets/f6a6edbb-ac05-4d25-b80f-3188336de119" />
+<img width="997" height="454" alt="Screenshot 2026-03-04 095702" src="https://github.com/user-attachments/assets/9a58922a-e8b2-4378-a257-4b59d72309ae" />
+<img width="701" height="347" alt="Screenshot 2026-03-03 141331" src="https://github.com/user-attachments/assets/e0d9fb13-7043-4fed-97a0-0f7158fbb0aa" />
+<img width="356" height="207" alt="Screenshot 2026-03-03 141240" src="https://github.com/user-attachments/assets/c2052f13-b0e2-493b-8070-efffca299d26" />
+<img width="699" height="268" alt="Screenshot 2026-03-03 141157" src="https://github.com/user-attachments/assets/c79cc770-477a-478a-b4b3-6206bd479ebb" />
+<img width="699" height="466" alt="Screenshot 2026-03-03 141100" src="https://github.com/user-attachments/assets/34633e73-7a6a-4818-9a7d-b78dfab136a2" />
+<img width="534" height="185" alt="Screenshot 2026-03-03 083531" src="https://github.com/user-attachments/assets/6e945cca-b77d-4cca-abaa-3ab9d7812eec" />
+<img width="700" height="251" alt="Screenshot 2026-03-03 141826" src="https://github.com/user-attachments/assets/d964929f-9370-48b3-a5d5-bd0f91e51a19" />
